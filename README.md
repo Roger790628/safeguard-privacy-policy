@@ -1,8 +1,5 @@
 
-Perfect 👍
-Here is your **updated, Google Play–compliant Privacy Policy** with your email **[rogerstuurman621@gmail.com](mailto:rogerstuurman621@gmail.com)** correctly included everywhere it’s required.
 
-You can **copy–paste this directly** into Google Sites or GitHub Pages.
 
 ---
 
