@@ -5,7 +5,7 @@
 
 # Privacy Policy for Safeguard
 
-**Effective Date:** [Insert date]
+**Effective Date:** [13 Jan 2026]
 
 Safeguard (“we”, “our”, or “us”) is a personal safety application designed to assist users during emergency situations. This Privacy Policy explains how we collect, use, disclose, and protect user information when you use the Safeguard mobile application (the “App”).
 
