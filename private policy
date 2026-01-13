@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy - SafeGuard</title>
+    <style>body { font-family: sans-serif; padding: 20px; line-height: 1.6; }</style>
+</head>
+<body>
+    <h1>Privacy Policy for SafeGuard</h1>
+    <p>Last Updated: January 2025</p>
+    <p>SafeGuard provides personal safety services. We collect precise location data to provide emergency tracking features even when the app is closed or not in use.</p>
+    <h2>Data Security</h2>
+    <p>All data is encrypted in transit as per our SDK 35 build standards. We do not sell your data.</p>
+    <h2>Contact</h2>
+    <p>For data deletion requests, contact: [rogerstuurman621@gmail.com]</p>
+</body>
+</html>
