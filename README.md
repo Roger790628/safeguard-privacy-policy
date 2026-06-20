@@ -1,4 +1,66 @@
-Roger ("us", "we", or "our") operates the SafeGuard mobile application (the "Service"). This Privacy Policy explains how we collect, use, and protect your information when you use our safety services.1. Information Collection and UseTo provide our core safety features, we collect the following information:A. Location Information (Core Feature)SafeGuard requires access to your location to function effectively.•Precise Location: We collect precise location data (GPS and network-based) to show your position on the map and to include your coordinates in SOS alerts sent to your trusted contacts.•Background Location: If you enable "Real-time Tracking," we may collect location data even when the app is closed or not in use. This is strictly to ensure your trusted contacts can locate you during an emergency.•Disclosure: We do not share your location with third parties for advertising. It is only shared with the "Trusted Contacts" you have personally selected.B. Contact List InformationSafeGuard allows you to select "Trusted Contacts" from your device's phonebook.•Access: We only access your contact list when you interact with the "Add Contact" feature.•Data Stored: We only store the Name and Phone Number of the specific individuals you choose to add.•Purpose: This data is used solely to facilitate the sending of SOS messages via SMS at your request.C. Personal DataWhen you create an account, we collect:•Identity Data: Your name and surname (used to identify you to your contacts).•Account Data: Your email address (via Google Firebase) for authentication and account recovery.D. User-Generated Content•Crime Incidents: When you report an incident, we store the type, description, and time in our database to alert other users in the community.2. How We Use Your DataWe use the collected data to:•Provide real-time location tracking for safety.•Send emergency SMS alerts to your designated contacts.•Notify the community about nearby safety incidents.•Manage your user account and provide support.3. Data Sharing and Disclosure•We do not sell your personal data.•Trusted Contacts: Your location and identity are shared with your chosen contacts when you trigger an alert.•Service Providers: We use Google Firebase to securely store your data and manage authentication.•Legal Requirements: We may disclose data if required by law or to protect the safety of our users.4. Data Retention and Deletion•Retention: We keep your data as long as your account is active.•Deletion: You can request the deletion of your account and all associated data at any time by contacting us at the email address below. Upon request, we will remove your personal profile and contact list from our active databases.5. PermissionsThe app will request the following sensitive permissions:•Location (Fine/Coarse): Necessary for SOS coordinates.•Contacts (Read): Necessary to pick emergency contacts.•SMS: Used to prepare emergency messages.6. Children's PrivacySafeGuard does not knowingly collect data from children under the age of 13. If you believe a child has provided us with data, please contact us for immediate removal.7. Changes to This PolicyWe may update this policy periodically. We will notify you of changes by updating the "Effective Date" at the top of this page.8. Contact UsIf you have questions regarding this policy or your data, please contact: rogerstuurman621@gmail.com]
+# Privacy Policy for SafeGuard
+
+**Effective Date: November 22, 2023**
+
+Roger ("us", "we", or "our") operates the **SafeGuard** mobile application (the "Service"). This Privacy Policy describes how we collect, use, and handle your personal information to provide you with a security-focused experience.
+
+By using the Service, you agree to the collection and use of information in accordance with this policy.
+
+## 1. Information Collection and Use
+
+### Personal Data
+While using our Service, we may ask you to provide us with certain personally identifiable information ("Personal Data"), including:
+*   **Identity Data:** Name and Surname (used for profile identification).
+*   **Contact Data:** Email address (used for account authentication and communication).
+*   **Contact List:** With your explicit permission, we access your device's contacts to allow you to select "Trusted Contacts." We only store the name and phone number of the specific contacts you choose to add. This data is used solely to facilitate user-initiated messaging and security notifications.
+
+### Location Data
+SafeGuard requires access to your location to provide core security and notification features:
+*   **Precise Location:** We collect precise location data (GPS and network-based) to show your current position and to include your coordinates in security notifications sent to your trusted contacts.
+*   **Background Location:** If you enable "Real-time Tracking," we may collect location data even when the app is closed or not in use to ensure your trusted contacts can receive your location updates when you choose to share them for security awareness and peace of mind.
+
+### User-Generated Content
+*   **Security Reports and Posts:** When you report an incident or post a security notification, the description, type, and timestamp are stored in our database and may be visible to other users of the Service to promote community security awareness.
+
+## 2. Use of Data
+
+SafeGuard uses the collected data for the following purposes:
+*   To provide and maintain the Service (e.g., displaying your location, managing trusted contacts).
+*   To facilitate user-initiated communications (SMS notifications) at your request.
+*   To monitor and improve the performance and security of the Service.
+*   To provide community-driven security updates.
+
+## 3. Data Sharing and Disclosure
+
+We do not sell your personal data. Your data is shared only in the following circumstances:
+*   **Trusted Contacts:** Your location and notification status are shared with the specific contacts you have selected when you trigger a security notification or share your live status.
+*   **Service Providers:** We use third-party services to support our infrastructure:
+    *   **Google Firebase:** For authentication, database hosting (Firestore), and crash reporting.
+    *   **Google Play Services:** For location accuracy and mapping.
+*   **Legal Requirements:** We may disclose your data if required by law or in response to valid requests by public authorities.
+
+## 4. Data Security
+
+The security of your data is a priority. We use industry-standard encryption and security practices to protect your information. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+
+## 5. Your Rights and Choices
+
+*   **Permissions:** You can grant or revoke access to location and contacts at any time through your device settings. Note that revoking these permissions will disable core features.
+*   **Data Access and Deletion:** You can request access to or deletion of your personal data by contacting us.
+*   **Account Deletion:** If you delete your account, we will remove your personal profile information from our active databases.
+
+## 6. Children's Privacy
+
+Our Service is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+
+## 7. Changes to This Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date."
+
+## 8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+[rogerstuurman621@gmail.com]
 
 ---
 
